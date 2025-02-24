@@ -62,6 +62,6 @@
   <img src="https://img.shields.io/badge/github-000000">
 </a>
 <br>
-<img src="../assets/ac_me.gif" alt="yo_sentado"/>
+<img src="/assets/ac_me.gif" alt="yo_sentado"/>
 <br>
 </div>

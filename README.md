@@ -23,7 +23,7 @@
 Bachelor’s degree in Computer Science and Business Administration
 
 <strong>Tools & Skills:</strong>
-React.js • Angular • Node.js • SQL Server
+React.js - Angular - Node.js - SQL Server
 
 <strong>Cloud:</strong>
 AWS enthusiast
@@ -34,8 +34,9 @@ Spanish • English • Portuguese
 </pre>
 
 <br>
-### 🖤🩶🤍💜
-### Find me somewhere else
+ 🖤🩶🤍💜
+ <br>
+Find me somewhere else
 <br>
 
 <!-- Enlaces a Redes Sociales -->

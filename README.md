@@ -36,7 +36,8 @@ Spanish • English • Portuguese
 <br>
 ### 🖤🩶🤍💜
 ### Find me somewhere else
-#
+<br>
+
 <!-- Enlaces a Redes Sociales -->
 <a href="https://www.linkedin.com/in/andres-inestroza-327819352">
   <img src="https://img.shields.io/badge/linkedin-0a66c2">

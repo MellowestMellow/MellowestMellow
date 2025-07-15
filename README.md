@@ -1,27 +1,13 @@
 <div align="center">
 
-### 🖤🩶 Hiii :3 🤍💜
-#
 
-<!-- Título de bienvenida en caja con fondo personalizado -->
-<pre style="
-  background-color:rgb(33, 36, 39); /* Color de fondo distinto, ajústalo a tu gusto */
-  color: #ffffff; 
-  padding: 20px; 
-  border-radius: 8px; 
-  text-align: center; 
-  display: inline-block;
-  font-family: Consolas, monospace;
-  font-size: 16px;
-">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Aloo...;Im+Anri+tech+and+psychology+enthusiast+%3C3" width="70%" />
-</pre>
+#
 
 <br>
 
-### ✨ About me
+### About me
 #
-<!-- Bloque estilo "code block" con fondo oscuro -->
+<!-- estilos -->
 <pre style="
   background-color: rgb(160, 120, 143); 
   color: #ffffff; 
@@ -32,27 +18,24 @@
   font-family: Consolas, monospace;
   font-size: 16px;
 ">
+  
 <strong>Degree:</strong>
-🎓 *Almost a bachelor in Computer Science and Business Management
-
-<strong>Studies & Interests:</strong>
-📖 Psychology student in my spare time
+Bachelor’s degree in Computer Science and Business Administration
 
 <strong>Tools & Skills:</strong>
-💻 Full-stack developer
-🛠️ React.js • Angular • Node.js • SQL Server
+React.js • Angular • Node.js • SQL Server
 
 <strong>Cloud:</strong>
-☁️ AWS enthusiast | EC2 • S3 • RDS 
-☁️ Azure not that enthusiast | Virtual Machine • SQL Database
+AWS enthusiast
+Azure not that enthusiast 
 
 <strong>Languages:</strong>
-🗣️ Spanish • English • Portuguese
+Spanish • English • Portuguese
 </pre>
 
 <br>
-
-### 🙂‍↕️ Find me somewhere else
+### 🖤🩶🤍💜
+### Find me somewhere else
 #
 <!-- Enlaces a Redes Sociales -->
 <a href="https://www.linkedin.com/in/andres-inestroza-327819352">
